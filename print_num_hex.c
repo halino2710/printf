@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * prinnhex - print number in hex begining with zero
- * @arguments: input string
- * @buf: buffer pointer
- * @ibuf: index for buffer pointer
- * Return: number of chars printed
+ * prinnhex - this function pirnts number in hex beginning with zero (0)
+ * @arguments: this input string
+ * @buf: this buffer pointer
+ * @ibuf: this index for buffer pointer
+ * Return: the number of chars to be printed
  */
 int prinnhex(va_list arguments, char *buf, unsigned int ibuf)
 {
