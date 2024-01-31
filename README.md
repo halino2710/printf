@@ -20,3 +20,4 @@
 12. Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection.
 13. Print is the sharpest and the strongest weapon of our party.
 14. The flood of print has turned reading into a process of gulping rather than savoring.
+Well done on completing this project! Let the world hear about this milestone achieved.
